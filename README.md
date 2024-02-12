@@ -1,3 +1,5 @@
+**Discrete Event Simulator**
+
 For this discrete event simulator project, 
 I've applied concepts from object-oriented and functional programming paradigms,
 building upon knowledge from a programming course (CS2030 Programming Methodology II). The project focuses on modeling activities and events within a shop environment 
